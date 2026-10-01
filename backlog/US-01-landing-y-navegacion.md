@@ -1,6 +1,6 @@
 # US-01 — Landing y navegación
 
-**Estado:** TODO. **Prioridad:** P0. **Puntos:** 3. **Dependencias:** ninguna.
+**Estado:** IN_REVIEW. **Prioridad:** P0. **Puntos:** 3. **Dependencias:** ninguna.
 
 ## User story
 
