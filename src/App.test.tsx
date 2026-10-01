@@ -20,7 +20,8 @@ describe('app navigation', () => {
     expect(screen.getAllByText(/France/).length).toBeGreaterThan(0)
     expect(screen.getAllByText(/Spain/).length).toBeGreaterThan(0)
     expect(screen.getByRole('heading', { name: /three steps to a number/i })).toBeInTheDocument()
-    expect(screen.getByText(/your numbers stay on your device/i)).toBeInTheDocument()
+    expect(screen.getByText(/calculations run locally/i)).toBeInTheDocument()
+    expect(screen.getByText(/no registration required/i)).toBeInTheDocument()
     expect(screen.getAllByText(/No account needed/i).length).toBeGreaterThan(0)
   })
 

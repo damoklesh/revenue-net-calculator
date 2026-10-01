@@ -40,7 +40,7 @@ export function HomePage() {
           </div>
           <div className="privacy-note">
             <span className="privacy-icon" aria-hidden="true">✦</span>
-            <span><strong>Private by default.</strong> Your numbers stay on your device. No account needed.</span>
+            <span><strong>Private by default.</strong> Your numbers stay on your device because calculations run locally. No registration required. No account needed.</span>
           </div>
         </div>
         <div className="hero-visual" aria-label="Illustration of a salary estimate" role="img">
